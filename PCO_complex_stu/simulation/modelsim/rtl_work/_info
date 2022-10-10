@@ -1,0 +1,366 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\HP\Desktop\aaa\test\PCO_complex_stu\simulation\modelsim
+vac
+Z1 InZi@oK1l`O;igEQEf1f;S3
+Z2 V<VT6LoR;CP0MWE:_=aTIg3
+Z3 dC:\Users\HP\Desktop\aaa\test\PCO_complex_stu\simulation\modelsim
+Z4 w1639549476
+Z5 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ac.v
+Z6 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ac.v
+L0 2
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 o-vlog01compat -work work -O0
+Z9 !s92 -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl -O0
+Z10 !s100 ;8a18^?jhof2_:k<FMnJg2
+Z11 !s108 1639554443.694000
+Z12 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ac.v|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ac.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+Z14 I^VNTk:bUT0=BBPWFGD8X00
+Z15 V66U5k]45cH4gd>dVQD1FC3
+R3
+R4
+Z16 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/alu.v
+Z17 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/alu.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z18 !s100 TNeeTA[mTnmfkn5O9mIgT2
+Z19 !s108 1639554443.612000
+Z20 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/alu.v|
+Z21 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+var
+Z22 IBbY=XOF62`SD82>`nHJj52
+Z23 V9o44f1eRz@O7`49^5hNCC2
+R3
+R4
+Z24 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ar.v
+Z25 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ar.v
+L0 9
+R7
+r1
+31
+R8
+R9
+Z26 !s100 <ah8XRLfEee`3Qa]z;B=?3
+Z27 !s108 1639554443.546000
+Z28 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ar.v|
+Z29 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ar.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vclk_div
+Z30 Iha<3Z[GPR_ea5FT5a^`Zz1
+Z31 VBL^JGUH?:P=jZGFZ1=d1L0
+R3
+Z32 w1638671280
+Z33 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/clk_div.v
+Z34 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/clk_div.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z35 !s100 7@K`B>b4z37Qj4NRbdck?3
+Z36 !s108 1639554443.859000
+Z37 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/clk_div.v|
+Z38 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/clk_div.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z39 I@Q]VLa=<UOFa3cggCz22=3
+Z40 VV9JZRfXPQ5PcK770[>HGk1
+R3
+Z41 w1639553340
+Z42 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/control.v
+Z43 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/control.v
+L0 14
+R7
+r1
+31
+R8
+R9
+Z44 !s100 EdSXAMA0gifNg_[S[gBRJ1
+Z45 !s108 1639554443.476000
+Z46 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/control.v|
+Z47 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu
+Z48 II?5>Ta:N79H1WVE7DTI[<3
+Z49 VDlJ;`0jfD4[1JNgY1TMW[1
+R3
+R41
+Z50 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/cpu.v
+Z51 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/cpu.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z52 !s100 jnHZ`H`2dU_Rz?9nbhlOi2
+Z53 !s108 1639554443.415000
+Z54 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/cpu.v|
+Z55 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU_Controller
+Z56 I4fS<>Md3iZand1gT>hm3H0
+Z57 VgJP;oog[KFk?ZRZKj5F3P2
+R3
+Z58 w1638672406
+Z59 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/CPU_Controller.v
+Z60 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/CPU_Controller.v
+L0 7
+R7
+r1
+31
+R8
+R9
+Z61 n@c@p@u_@controller
+Z62 !s100 5I^j1PAVgAnD[VlEO@Ri73
+Z63 !s108 1639554443.936000
+Z64 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/CPU_Controller.v|
+Z65 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/CPU_Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdr
+Z66 IE8YNP1hWLPCd8O]:?82IU0
+Z67 VUg_WXNkMVMnLDl@iUKHPR3
+R3
+R4
+Z68 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/dr.v
+Z69 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/dr.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z70 !s100 PEV:B_8?9`j09hYf1NLFV2
+Z71 !s108 1639554443.352000
+Z72 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/dr.v|
+Z73 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/dr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vir
+Z74 I789IP7Z=36jJT7:P_90g]1
+Z75 VT6Ro5YGOz[EPI]]@b2oOb3
+R3
+R4
+Z76 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ir.v
+Z77 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ir.v
+L0 3
+R7
+r1
+31
+R8
+R9
+Z78 !s100 HkF1?9kX>hlHe^=?d1cKU3
+Z79 !s108 1639554443.286000
+Z80 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ir.v|
+Z81 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ir.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlight_show
+Z82 IooJY?Ye5oNTkRYh:C0CEb3
+Z83 VfLb<AS61D0[5f=KH3SgA40
+R3
+Z84 w1639317730
+Z85 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/light_show.v
+Z86 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/light_show.v
+L0 13
+R7
+r1
+31
+R8
+R9
+Z87 !s100 C_;EX<nZ2lCKRd80<2ii]2
+Z88 !s108 1639554443.770000
+Z89 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/light_show.v|
+Z90 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/light_show.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc
+Z91 IkZW38VggWP^GcWhl<Jbic0
+Z92 VmRJ@8@k8LF4@AeEETcN4T3
+R3
+Z93 w1639388836
+Z94 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/pc.v
+Z95 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/pc.v
+L0 9
+R7
+r1
+31
+R8
+R9
+Z96 !s100 7;hzjg0k]oMnEG6_D4c?Z2
+Z97 !s108 1639554443.221000
+Z98 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/pc.v|
+Z99 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vqtsj
+Z100 IlGd^8JL?H_3A5LV`4PooM3
+Z101 VL__P<B;7Mo?8K9;LcUd[61
+R3
+Z102 w1638672644
+Z103 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/qtsj.v
+Z104 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/qtsj.v
+L0 13
+R7
+r1
+31
+R8
+R9
+!i10b 1
+Z105 !s100 VcKI@_;k__5Jo=L31z>YK3
+!s85 0
+Z106 !s108 1639554444.005000
+Z107 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/qtsj.v|
+Z108 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/qtsj.v|
+!s101 -O0
+vr
+Z109 ILACOFdX=;jTeez1Fi<AMW0
+Z110 VFPiVQL0fek<bEIP;EKRbF0
+R3
+R4
+Z111 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/r.v
+Z112 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/r.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z113 !s100 1]91A5?FQCmUS[1jKz_5g0
+Z114 !s108 1639554443.159000
+Z115 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/r.v|
+Z116 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/r.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vram
+Z117 IKDfd1i2X6`65PeNmR7>TA3
+Z118 VJBb5h44ne>;`:Z8@MUeVS3
+R3
+R93
+Z119 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ram.v
+Z120 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ram.v
+L0 14
+R7
+r1
+31
+R8
+Z121 !s100 X9RHQ0HMHWk@kTa<BLT>n0
+Z122 !s108 1639554442.902000
+Z123 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ram.v|
+Z124 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ram.v|
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+Z125 I51QlS]h9i9bBX2NS_5CM23
+Z126 V=l9b[Yo3mT0=b=Lm]VE>>0
+R3
+Z127 w1639540546
+Z128 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v
+Z129 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v
+L0 6
+R7
+r1
+31
+R8
+R9
+Z130 !s100 7ODkm=]O@5_be9RnCB=XC1
+Z131 !s108 1639554443.094000
+Z132 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v|
+Z133 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop_vlg_tst
+!i10b 1
+!s100 21l<i2:[Ezm;?^^nM^n2;1
+If75M0ETH3V<<c85;oJcgI3
+VWH`X8iAJ@;Z6_Z>8HHbjI2
+R3
+w1639540182
+8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt
+FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt
+L0 29
+R7
+r1
+!s85 0
+31
+!s108 1639554444.069000
+!s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt|
+!s101 -O0
+R8
+!s92 -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim -O0
+vtr
+Z134 I@mTZAnXk3OogV@FhT3OQH3
+Z135 Vg<II86?Lk9I?]mBFLT6hc1
+R3
+R4
+Z136 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/tr.v
+Z137 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/tr.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z138 !s100 oUlREGJo9`IDK<o83eWDZ0
+Z139 !s108 1639554443.031000
+Z140 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/tr.v|
+Z141 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/tr.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vz
+Z142 I_P>iPBZ3Oe_8iYBa?hDBh0
+Z143 VF6cHM8[hAKDBmG>L;0Yek2
+R3
+Z144 w1639549474
+Z145 8C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/z.v
+Z146 FC:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/z.v
+L0 2
+R7
+r1
+31
+R8
+R9
+Z147 !s100 AcBSR6d19l;TBM]@O@YXb2
+Z148 !s108 1639554442.965000
+Z149 !s107 C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/z.v|
+Z150 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl|C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/z.v|
+!i10b 1
+!s85 0
+!s101 -O0

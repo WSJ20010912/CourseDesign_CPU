@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Dec 15 15:53:19 2021
+Quartus II 64-Bit Version : 14.0.0 Build 200 06/17/2014 SJ Full Version
+Revision Name : PCO_comolex
+Top-level Entity Name : top
+Family : Cyclone IV E
+Total logic elements : 15,327
+    Total combinational functions : 15,260
+    Dedicated logic registers : 293
+Total registers : 293
+Total pins : 150
+Total virtual pins : 0
+Total memory bits : 512
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

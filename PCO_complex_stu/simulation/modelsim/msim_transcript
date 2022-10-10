@@ -1,0 +1,254 @@
+# Reading D:/Verilog/modelsim_ase/tcl/vsim/pref.tcl 
+# do PCO_comolex_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying D:\Verilog\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\Verilog\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ram.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ram
+# 
+# Top level modules:
+# 	ram
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/z.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module z
+# 
+# Top level modules:
+# 	z
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/tr.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module tr
+# 
+# Top level modules:
+# 	tr
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/r.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module r
+# 
+# Top level modules:
+# 	r
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/pc.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module pc
+# 
+# Top level modules:
+# 	pc
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ir.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ir
+# 
+# Top level modules:
+# 	ir
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/dr.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module dr
+# 
+# Top level modules:
+# 	dr
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/cpu.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module cpu
+# 
+# Top level modules:
+# 	cpu
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/control.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ar.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ar
+# 
+# Top level modules:
+# 	ar
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/alu.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/ac.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module ac
+# 
+# Top level modules:
+# 	ac
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/light_show.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module light_show
+# 
+# Top level modules:
+# 	light_show
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/clk_div.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module clk_div
+# 
+# Top level modules:
+# 	clk_div
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/CPU_Controller.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module CPU_Controller
+# 
+# Top level modules:
+# 	CPU_Controller
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/qtsj.v}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module qtsj
+# 
+# Top level modules:
+# 	qtsj
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim {C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module top_vlg_tst
+# 
+# Top level modules:
+# 	top_vlg_tst
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  top_vlg_tst
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps top_vlg_tst 
+# Loading work.top_vlg_tst
+# Loading work.top
+# Loading work.clk_div
+# Loading work.CPU_Controller
+# Loading work.cpu
+# Loading work.qtsj
+# Loading work.ar
+# Loading work.pc
+# Loading work.dr
+# Loading work.tr
+# Loading work.ir
+# Loading work.r
+# Loading work.ac
+# Loading work.alu
+# Loading work.z
+# Loading work.control
+# Loading work.ram
+# Loading work.light_show
+# ** Warning: (vsim-3017) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(63): [TFMPC] - Too few port connections. Expected 36, found 32.
+# 
+#         Region: /top_vlg_tst/i1/mcpu
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(63): [TFMPC] - Missing connection for port 'membus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(63): [TFMPC] - Missing connection for port 'busmem'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(63): [TFMPC] - Missing connection for port 'drbus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(63): [TFMPC] - Missing connection for port 'alus'.
+# 
+# ** Warning: (vsim-3017) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Too few port connections. Expected 60, found 18.
+# 
+#         Region: /top_vlg_tst/i1/show
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'read'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'write'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'arload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'arinc'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'pcinc'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'pcload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'drload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'trload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'irload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'rload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'acload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'zload'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'pcbus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'drhbus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'drlbus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'trbus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'rbus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'acbus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'membus'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'busmem'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'clr'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'read_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'write_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'arload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'arinc_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'pcinc_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'pcload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'drload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'trload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'irload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'rload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'acload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'zload_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'pcbus_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'drhbus_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'drlbus_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'trbus_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'rbus_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'acbus_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'membus_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'busmem_led'.
+# 
+# ** Warning: (vsim-3722) C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/rtl/top.v(72): [TFMPC] - Missing connection for port 'clr_led'.
+# 
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $finish    : C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt(412)
+#    Time: 42100 ns  Iteration: 0  Instance: /top_vlg_tst
+# 1
+# Break in Module top_vlg_tst at C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt line 412
+# Simulation Breakpoint: 1
+# Break in Module top_vlg_tst at C:/Users/HP/Desktop/aaa/test/PCO_complex_stu/simulation/modelsim/top.vt line 412
+# MACRO ./PCO_comolex_run_msim_rtl_verilog.do PAUSED at line 33
